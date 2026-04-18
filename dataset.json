@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Cincinnati, OH-KY-IN Metro Area, US",
+  "export_job_id": "4d976169-133d-405b-acde-6c7defb8ba74",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 491285,
+  "location_name": "Cincinnati, OH-KY-IN",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-cincinnati-oh-ky-in-metro-area-us-sample-491285",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/491285/beamstation_491285_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 119,
+  "sample_sha256": "663ac07e3a285b67f89182279b6e622745b83cbfeccb8db6d176266a88b5be04",
+  "sample_size_bytes": 494899,
+  "total_records": 1192,
+  "updated_at": "2026-04-15T02:55:25.260329+00:00"
+}
