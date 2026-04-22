@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4d976169-133d-405b-acde-6c7defb8ba74",
+  "export_job_id": "58194df5-c8ba-478e-aa46-b4db61b7ed77",
   "id_short": 491285,
-  "published_at": "2026-04-18T19:15:07Z",
+  "published_at": "2026-04-22T19:48:19Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-cincinnati-oh-ky-in-metro-area-us-sample-491285",
   "sample_asset_name": "beamstation_491285_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/491285/beamstation_491285_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
-  "sample_records": 119,
-  "sample_sha256": "663ac07e3a285b67f89182279b6e622745b83cbfeccb8db6d176266a88b5be04",
-  "sample_size_bytes": 494899,
-  "total_records": 1192
+  "sample_records": 101,
+  "sample_sha256": "b26cbca791ef063661957a1ff314146c20e37cfb134d8f55eb7526594f6bb9c6",
+  "sample_size_bytes": 419856,
+  "total_records": 1017
 }
