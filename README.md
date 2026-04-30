@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Cincinnati, OH-KY-IN Metro Area, US
 
-> Free BeamStation sample export with 101 rows and masked direct-contact fields.
+> Free BeamStation sample export with 104 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `491285` |
 | Location | Cincinnati, OH-KY-IN |
 | Category | Restaurants |
-| Full dataset size | 1,017 records |
-| Free sample size | 101 records (9.93%) |
-| Last export | 2026-04-22T07:58:52.794296+00:00 |
+| Full dataset size | 1,044 records |
+| Free sample size | 104 records (9.96%) |
+| Last export | 2026-04-29T09:46:15.344811+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-cincinnati-oh-ky-in-metro-area-us-sample-491285/releases/download/sample-latest/beamstation_491285_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
